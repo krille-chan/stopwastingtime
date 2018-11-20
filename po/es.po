@@ -1,14 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the stopwastingtime.christianpauly package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: stopwastingtime.christianpauly\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-10 07:37+0000\n"
-"PO-Revision-Date: 2018-10-10 13:34+0200\n"
+"POT-Creation-Date: 2018-11-20 11:47+0000\n"
+"PO-Revision-Date: 2018-11-20 13:20+0100\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: UBports Spanish Team\n"
 "Language: es\n"
@@ -19,51 +20,51 @@ msgstr ""
 
 #: ../qml/InfoPage.qml:9
 msgid "Info about Stop Wasting Time! %1 on %2"
-msgstr ""
+msgstr "Información sobre «Stop Wasting Time!» %1 en %2"
 
 #: ../qml/InfoPage.qml:38
 msgid "Become a Patron"
-msgstr ""
+msgstr "Sea un patrocinador"
 
 #: ../qml/InfoPage.qml:45
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #: ../qml/InfoPage.qml:51
 msgid "Source code"
-msgstr ""
+msgstr "Código fuente"
 
 #: ../qml/InfoPage.qml:57
 msgid "License"
-msgstr ""
+msgstr "Licencia"
 
 #: ../qml/MainPage.qml:10 stopwastingtime.desktop.in.h:1
 msgid "Stop Wasting Time!"
-msgstr ""
+msgstr "Stop Wasting Time!"
 
 #: ../qml/MainPage.qml:44
 msgid "You have 1 minute left."
-msgstr ""
+msgstr "Le queda 1 minuto."
 
 #: ../qml/MainPage.qml:44
 msgid "You have %1 minutes left."
-msgstr ""
+msgstr "Le quedan %1 minutos."
 
 #: ../qml/MainPage.qml:53
 msgid "STOP wasting time"
-msgstr ""
+msgstr "PARAR de perder el tiempo"
 
 #: ../qml/MainPage.qml:53
 msgid "Start wasting time"
-msgstr ""
+msgstr "Empezar a perder el tiempo"
 
 #: ../qml/Main.qml:33
 msgid "STOP wasting time!"
-msgstr ""
+msgstr "¡PARAR de perder el tiempo!"
 
 #: ../qml/SettingsPage.qml:10
 msgid "Settings"
-msgstr ""
+msgstr "Configuración"
 
 #: ../qml/SettingsPage.qml:44
 msgid ""
@@ -71,11 +72,14 @@ msgid ""
 "the internet? You could be so much more productive. Here's a way to limit "
 "the time you're wasting: Simply decide how much downtime to award yourself."
 msgstr ""
+"¿Pierde mucho tiempo con los videojuegos, viendo la tele o navegando por internet?"
+"Podría ser mucho más productivo. Aquí tiene una manera de limitar el tiempo que "
+"está desperdiciando: simplemente decida con cuánto tiempo de descanso quiere premiarse."
 
-#: ../qml/SettingsPage.qml:61
+#: ../qml/SettingsPage.qml:62
 msgid "Minutes"
-msgstr ""
+msgstr "Minutos"
 
-#: ../qml/SettingsPage.qml:69
+#: ../qml/SettingsPage.qml:70
 msgid "Save"
-msgstr ""
+msgstr "Guardar" 
