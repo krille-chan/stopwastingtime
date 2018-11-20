@@ -63,7 +63,7 @@ msgstr "HÖR AUF Zeit zu verschwenden!"
 
 #: ../qml/SettingsPage.qml:10
 msgid "Settings"
-msgstr "Einstellulngen"
+msgstr "Einstellungen"
 
 #: ../qml/SettingsPage.qml:44
 msgid ""
