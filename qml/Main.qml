@@ -16,7 +16,7 @@ MainView {
     // automatically anchor items to keyboard that are anchored to the bottom
     anchorToKeyboard: true
 
-    property var version: "1.0"
+    property var version: "1.1"
     property var minutesLeft: settings.isWasting ? settings.minutesLeft - Math.round((new Date().getTime() - settings.isWasting)/60000) : settings.minutesLeft
 
     Settings {
