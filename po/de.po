@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stopwastingtime.christianpauly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-09 17:41+0000\n"
+"PO-Revision-Date: 2018-10-09 19:45+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: ../qml/InfoPage.qml:9
+msgid "Info about Stop Wasting Time! %1 on %2"
+msgstr "Infos über Stop Wasting Time! %1 auf %2"
+
+#: ../qml/InfoPage.qml:38
+msgid "Become a Patron"
+msgstr "Werde ein Patron"
+
+#: ../qml/InfoPage.qml:45
+msgid "Contributors"
+msgstr "Mitwirkende"
+
+#: ../qml/InfoPage.qml:51
+msgid "Source code"
+msgstr "Quellcode"
+
+#: ../qml/InfoPage.qml:57
+msgid "License"
+msgstr "Lizenz"
+
+#: ../qml/MainPage.qml:10 stopwastingtime.desktop.in.h:1
+msgid "Stop Wasting Time!"
+msgstr "Stop Wasting Time!"
+
+#: ../qml/MainPage.qml:44
+msgid "You have 1 minute left."
+msgstr "Du hast noch eine Minute."
+
+#: ../qml/MainPage.qml:44
+msgid "You have %1 minutes left."
+msgstr "Du hast noch %1 Minuten."
+
+#: ../qml/MainPage.qml:53
+msgid "STOP wasting time"
+msgstr "AUFHÖREN Zeit zu verschwenden"
+
+#: ../qml/MainPage.qml:53
+msgid "Start wasting time"
+msgstr "Anfangen Zeit zu verschwenden"
+
+#: ../qml/Main.qml:33
+msgid "STOP wasting time!"
+msgstr "HÖR AUF Zeit zu verschwenden!"
+
+#: ../qml/SettingsPage.qml:10
+msgid "Settings"
+msgstr "Einstellulngen"
+
+#: ../qml/SettingsPage.qml:44
+msgid ""
+"Do you waste too much time playing computer games, watching TV and surfing "
+"the internet? You could be so much more productive. Here's a way to limit "
+"the time you're wasting: Simply decide how much downtime to award yourself."
+msgstr ""
+"Verschwendest du auch zu viel Zeit mit Computerspielen, Fernsehen oder im Internet "
+"zu surfen? Du könntest viel produktiver sein. Hier ist eine Möglichkeit, wie du "
+"die Zeit die du verschwendst, limitieren kannst: Entscheide einfach, wie viel Zeit "
+"du jeden Tag verschwenden möchtest."
+
+#: ../qml/SettingsPage.qml:61
+msgid "Minutes"
+msgstr "Minuten"
+
+#: ../qml/SettingsPage.qml:69
+msgid "Save"
+msgstr "Speichern"

@@ -1,0 +1,6 @@
+{
+    "policy_groups": [
+        "calendar"
+    ],
+    "policy_version": 16.04
+}
