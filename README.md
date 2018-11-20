@@ -1,4 +1,4 @@
-# Jotit
+# Stop Wasting Time
 
 Take nots on Ubuntu Touch.
 
