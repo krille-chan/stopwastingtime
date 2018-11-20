@@ -1,6 +1,6 @@
 # Stop Wasting Time
 
-Take nots on Ubuntu Touch.
+Do you waste too much time playing computer games, watching TV and surfing the internet? You could be so much more productive. Here's a way to limit the time you're wasting: Simply decide how much downtime to award yourself.
 
 Download from the Open Store: https://open-store.io/app/stopwastingtime.christianpauly
 
