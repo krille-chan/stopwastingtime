@@ -11,7 +11,7 @@ Download from the Open Store: https://open-store.io/app/stopwastingtime.christia
 2. Clone this repo:
 ```
 git clone https://github.com/ChristianPauly/stopwastingtime
-cd jotit
+cd stopwastingtime
 ```
 
 3. Build with clickable
